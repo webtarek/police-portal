@@ -1,0 +1,4 @@
+Vendor/*
+git/*
+app/tmp/*
+Config/database.php
